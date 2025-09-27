@@ -1,0 +1,1 @@
+{"name":"rbac","version":"1.0.0","description":"A modern RBAC system using Next.js, Drizzle ORM, and PostgreSQL.","main":"index.js","scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"next":"14.0.0","react":"latest","react-dom":"latest","drizzle-orm":"latest","pg":"latest","better-auth":"latest"},"devDependencies":{},"license":"MIT"}
